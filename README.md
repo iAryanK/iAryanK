@@ -10,7 +10,7 @@
 
 - 🌱 &nbsp; Learning Data Structures and Algorithms.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing App Development as hobbies/side hustles.
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-- 💻 &nbsp; Java | C++ | C 
+- 💻 &nbsp; Python | Kotlin | Java | C++ | C 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
