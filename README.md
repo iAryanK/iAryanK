@@ -1,7 +1,8 @@
 ## Hello
 
 ### 💫 About Me
-🎓   Final year CSE student at PTU.<br>
+🎓   M. Tech CSE '27 at IIT, Patna.<br>
+🎓   B. Tech CSE '25 from PTU, Mohali.<br>
 🌱   Learning Data Structures and Algorithms.<br>
 ✍️   Creating Projects using modern tech stacks.
 
