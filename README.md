@@ -8,5 +8,5 @@
 
 
 ### 🌐 Socials
-[Portfolio](https://www.iaryan.tech)
+[Portfolio](https://www.iaryan.me)
 [LinkedIn](https://www.linkedin.com/in/iaryan/)
